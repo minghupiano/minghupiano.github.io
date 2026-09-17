@@ -2,3 +2,7 @@ assets/.DS_Store
 assets/vendor/.DS_Store
 assets/img/.DS_Store
 .DS_Store
+
+# Local document preparation and visual verification files
+work/
+design-qa.md

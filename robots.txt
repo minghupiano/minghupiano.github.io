@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://minghupiano.com/sitemap.xml
